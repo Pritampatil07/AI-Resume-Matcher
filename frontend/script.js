@@ -1,5 +1,5 @@
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://ai-resume-matcher-cc9w.onrender.com";
 const MAX_FILE_SIZE = 5 * 1024 * 1024;
 
 const matchForm = document.getElementById("matchForm");
