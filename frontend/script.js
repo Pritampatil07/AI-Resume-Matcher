@@ -1,9 +1,4 @@
-
-<<<<<<< HEAD
-const API_URL = "https://ai-resume-matcher-cc9w.onrender.com";
-=======
-const API_URL = "https://ai-resume-matcher-cc9w.onrender.com/";
->>>>>>> b17ba0d (updated deployed backend url)
+const API_URL = "https://ai-resume-matcher-cc9w.onrender.com"
 const MAX_FILE_SIZE = 5 * 1024 * 1024;
 
 const matchForm = document.getElementById("matchForm");
